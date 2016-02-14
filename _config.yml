@@ -1,7 +1,7 @@
 name: frenzymetal
 favicon: null
 layout_spectrum: 0.31274883169680834
-typography_spectrum: 0.03088248078711331
+typography_spectrum: 0.07453
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#f4ff00'
+    - '#030303'
+    - '#363636'
+    - '#b6b6b6'
   brandStrength: 0.1478650406934321
   lightness: 0.8117506096605211
   saturation: 0.912522436119616
