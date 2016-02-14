@@ -4,7 +4,7 @@
         <description><![CDATA[Frenzy Metal]]></description>
         <link>https://thegrid.ai/frenzymetal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 23:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 23:30:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/frenzymetal/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/frenzymetal/1e75a54d-27d5-463c-a614-035d302bb2ae/index.html</link>
             <guid isPermaLink="false">1e75a54d-27d5-463c-a614-035d302bb2ae</guid>
             <pubDate>Sun, 14 Feb 2016 23:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Find Us At]]></title>
+            <description><![CDATA[<article><h1>Find Us At</h1><p>www.facebook.com/frenzymetal</p></article>]]></description>
+            <link>https://thegrid.ai/frenzymetal/find-us-at/index.html</link>
+            <guid isPermaLink="false">3f50c82c-4e09-4bde-9c85-ffa462080654</guid>
+            <pubDate>Sun, 14 Feb 2016 23:29:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
