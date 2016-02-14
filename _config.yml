@@ -1,0 +1,28 @@
+name: frenzymetal
+favicon: null
+layout_spectrum: 0.31274883169680834
+typography_spectrum: 0.03088248078711331
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1478650406934321
+  lightness: 0.8117506096605211
+  saturation: 0.912522436119616
+  rhythmicContrast: 0.7291738910134882
+purpose: []
