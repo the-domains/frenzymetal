@@ -6,12 +6,12 @@ color:
     - '#3586b4'
     - '#52eaff'
     - '#ff6540'
-  brandStrength: 1
+  brandStrength: 0.488738
   lightness: 0
   rhythmicContrast: 1
-  saturation: 0.912522436119616
+  saturation: 0.912522
 cta: {}
-layout_spectrum: 0
+layout_spectrum: 0.077702
 name: frenzymetal
 opengraph: {}
 purpose: []
